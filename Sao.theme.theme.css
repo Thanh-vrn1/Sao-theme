@@ -10,6 +10,7 @@
  
 :root {
   --background-image: url('https://github.com/Thanh-vrn1/Sao-theme/blob/main/sao.png?raw=true');
+  height: 1920px;
 }
 
 /*TopBar*/
@@ -22,7 +23,7 @@
     #app-mount .typeWindows__5fa63:after {
         content: "Sao made by Thanh";
         color: rgb(255,255,255,0.5);
-        font-weight: 500;
+        font-weight: 30;
 
         position: absolute;
         top: 8px;
